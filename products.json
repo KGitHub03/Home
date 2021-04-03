@@ -1,3 +1,9 @@
 {
-    "hello": true
+    courses = [
+        {
+            "id": "tgrhr",
+            "name": "rrrhbt",
+            "price": "rgtbbth"
+        }
+    ]
 }
